@@ -1,10 +1,9 @@
-# Stellar-MusicPlayer
-
-[![Screenshot.png](https://i.postimg.cc/0Ns9Ywsd/Screenshot.png)](https://postimg.cc/CRcyYddz)
-
 # StellarSound Music Player
 
 A beautiful **glassmorphic** web-based music player for local audio files.
+
+[![Screenshot.png](https://i.postimg.cc/0Ns9Ywsd/Screenshot.png)](https://postimg.cc/CRcyYddz)
+
 
 ---
 
